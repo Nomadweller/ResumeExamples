@@ -1,0 +1,13 @@
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\GalaxyQuest\GalaxyQuest\bin\Debug\netcoreapp3.1\GalaxyQuest.exe
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\GalaxyQuest\GalaxyQuest\bin\Debug\netcoreapp3.1\GalaxyQuest.deps.json
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\GalaxyQuest\GalaxyQuest\bin\Debug\netcoreapp3.1\GalaxyQuest.runtimeconfig.json
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\GalaxyQuest\GalaxyQuest\bin\Debug\netcoreapp3.1\GalaxyQuest.runtimeconfig.dev.json
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\GalaxyQuest\GalaxyQuest\bin\Debug\netcoreapp3.1\GalaxyQuest.dll
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\GalaxyQuest\GalaxyQuest\bin\Debug\netcoreapp3.1\GalaxyQuest.pdb
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\GalaxyQuest\GalaxyQuest\obj\Debug\netcoreapp3.1\GalaxyQuest.csprojAssemblyReference.cache
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\GalaxyQuest\GalaxyQuest\obj\Debug\netcoreapp3.1\GalaxyQuest.AssemblyInfoInputs.cache
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\GalaxyQuest\GalaxyQuest\obj\Debug\netcoreapp3.1\GalaxyQuest.AssemblyInfo.cs
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\GalaxyQuest\GalaxyQuest\obj\Debug\netcoreapp3.1\GalaxyQuest.csproj.CoreCompileInputs.cache
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\GalaxyQuest\GalaxyQuest\obj\Debug\netcoreapp3.1\GalaxyQuest.dll
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\GalaxyQuest\GalaxyQuest\obj\Debug\netcoreapp3.1\GalaxyQuest.pdb
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\GalaxyQuest\GalaxyQuest\obj\Debug\netcoreapp3.1\GalaxyQuest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\howle\source\repos\AutoSink\AutoSink\bin\Debug\netcoreapp3.1\AutoSink.exe
+C:\Users\howle\source\repos\AutoSink\AutoSink\bin\Debug\netcoreapp3.1\AutoSink.deps.json
+C:\Users\howle\source\repos\AutoSink\AutoSink\bin\Debug\netcoreapp3.1\AutoSink.runtimeconfig.json
+C:\Users\howle\source\repos\AutoSink\AutoSink\bin\Debug\netcoreapp3.1\AutoSink.runtimeconfig.dev.json
+C:\Users\howle\source\repos\AutoSink\AutoSink\bin\Debug\netcoreapp3.1\AutoSink.dll
+C:\Users\howle\source\repos\AutoSink\AutoSink\bin\Debug\netcoreapp3.1\AutoSink.pdb
+C:\Users\howle\source\repos\AutoSink\AutoSink\obj\Debug\netcoreapp3.1\AutoSink.csprojAssemblyReference.cache
+C:\Users\howle\source\repos\AutoSink\AutoSink\obj\Debug\netcoreapp3.1\AutoSink.AssemblyInfoInputs.cache
+C:\Users\howle\source\repos\AutoSink\AutoSink\obj\Debug\netcoreapp3.1\AutoSink.AssemblyInfo.cs
+C:\Users\howle\source\repos\AutoSink\AutoSink\obj\Debug\netcoreapp3.1\AutoSink.csproj.CoreCompileInputs.cache
+C:\Users\howle\source\repos\AutoSink\AutoSink\obj\Debug\netcoreapp3.1\AutoSink.dll
+C:\Users\howle\source\repos\AutoSink\AutoSink\obj\Debug\netcoreapp3.1\AutoSink.pdb
+C:\Users\howle\source\repos\AutoSink\AutoSink\obj\Debug\netcoreapp3.1\AutoSink.genruntimeconfig.cache

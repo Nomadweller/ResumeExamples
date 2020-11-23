@@ -1,0 +1,13 @@
+C:\Users\howle\source\repos\RumorMill\RumorMill\bin\Debug\netcoreapp3.1\RumorMill.exe
+C:\Users\howle\source\repos\RumorMill\RumorMill\bin\Debug\netcoreapp3.1\RumorMill.deps.json
+C:\Users\howle\source\repos\RumorMill\RumorMill\bin\Debug\netcoreapp3.1\RumorMill.runtimeconfig.json
+C:\Users\howle\source\repos\RumorMill\RumorMill\bin\Debug\netcoreapp3.1\RumorMill.runtimeconfig.dev.json
+C:\Users\howle\source\repos\RumorMill\RumorMill\bin\Debug\netcoreapp3.1\RumorMill.dll
+C:\Users\howle\source\repos\RumorMill\RumorMill\bin\Debug\netcoreapp3.1\RumorMill.pdb
+C:\Users\howle\source\repos\RumorMill\RumorMill\obj\Debug\netcoreapp3.1\RumorMill.csprojAssemblyReference.cache
+C:\Users\howle\source\repos\RumorMill\RumorMill\obj\Debug\netcoreapp3.1\RumorMill.AssemblyInfoInputs.cache
+C:\Users\howle\source\repos\RumorMill\RumorMill\obj\Debug\netcoreapp3.1\RumorMill.AssemblyInfo.cs
+C:\Users\howle\source\repos\RumorMill\RumorMill\obj\Debug\netcoreapp3.1\RumorMill.csproj.CoreCompileInputs.cache
+C:\Users\howle\source\repos\RumorMill\RumorMill\obj\Debug\netcoreapp3.1\RumorMill.dll
+C:\Users\howle\source\repos\RumorMill\RumorMill\obj\Debug\netcoreapp3.1\RumorMill.pdb
+C:\Users\howle\source\repos\RumorMill\RumorMill\obj\Debug\netcoreapp3.1\RumorMill.genruntimeconfig.cache

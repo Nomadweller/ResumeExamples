@@ -1,0 +1,7 @@
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\PlantingTrees\PlantingTrees\bin\Debug\PlantingTrees.exe.config
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\PlantingTrees\PlantingTrees\bin\Debug\PlantingTrees.exe
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\PlantingTrees\PlantingTrees\bin\Debug\PlantingTrees.pdb
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\PlantingTrees\PlantingTrees\obj\Debug\PlantingTrees.csprojAssemblyReference.cache
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\PlantingTrees\PlantingTrees\obj\Debug\PlantingTrees.csproj.CoreCompileInputs.cache
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\PlantingTrees\PlantingTrees\obj\Debug\PlantingTrees.exe
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\PlantingTrees\PlantingTrees\obj\Debug\PlantingTrees.pdb

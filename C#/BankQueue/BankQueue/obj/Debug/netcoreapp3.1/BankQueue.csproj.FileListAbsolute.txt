@@ -1,0 +1,13 @@
+C:\Users\howle\source\repos\BankQueue\BankQueue\bin\Debug\netcoreapp3.1\BankQueue.exe
+C:\Users\howle\source\repos\BankQueue\BankQueue\bin\Debug\netcoreapp3.1\BankQueue.deps.json
+C:\Users\howle\source\repos\BankQueue\BankQueue\bin\Debug\netcoreapp3.1\BankQueue.runtimeconfig.json
+C:\Users\howle\source\repos\BankQueue\BankQueue\bin\Debug\netcoreapp3.1\BankQueue.runtimeconfig.dev.json
+C:\Users\howle\source\repos\BankQueue\BankQueue\bin\Debug\netcoreapp3.1\BankQueue.dll
+C:\Users\howle\source\repos\BankQueue\BankQueue\bin\Debug\netcoreapp3.1\BankQueue.pdb
+C:\Users\howle\source\repos\BankQueue\BankQueue\obj\Debug\netcoreapp3.1\BankQueue.csprojAssemblyReference.cache
+C:\Users\howle\source\repos\BankQueue\BankQueue\obj\Debug\netcoreapp3.1\BankQueue.AssemblyInfoInputs.cache
+C:\Users\howle\source\repos\BankQueue\BankQueue\obj\Debug\netcoreapp3.1\BankQueue.AssemblyInfo.cs
+C:\Users\howle\source\repos\BankQueue\BankQueue\obj\Debug\netcoreapp3.1\BankQueue.csproj.CoreCompileInputs.cache
+C:\Users\howle\source\repos\BankQueue\BankQueue\obj\Debug\netcoreapp3.1\BankQueue.dll
+C:\Users\howle\source\repos\BankQueue\BankQueue\obj\Debug\netcoreapp3.1\BankQueue.pdb
+C:\Users\howle\source\repos\BankQueue\BankQueue\obj\Debug\netcoreapp3.1\BankQueue.genruntimeconfig.cache

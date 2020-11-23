@@ -1,0 +1,7 @@
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\MrAnaga\MrAnaga\obj\Debug\MrAnaga.csprojAssemblyReference.cache
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\MrAnaga\MrAnaga\obj\Debug\MrAnaga.csproj.CoreCompileInputs.cache
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\MrAnaga\MrAnaga\bin\Debug\MrAnaga.exe.config
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\MrAnaga\MrAnaga\bin\Debug\MrAnaga.exe
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\MrAnaga\MrAnaga\bin\Debug\MrAnaga.pdb
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\MrAnaga\MrAnaga\obj\Debug\MrAnaga.exe
+C:\Users\howle\OneDrive\Desktop\Algorithms\sources\repos\MrAnaga\MrAnaga\obj\Debug\MrAnaga.pdb
