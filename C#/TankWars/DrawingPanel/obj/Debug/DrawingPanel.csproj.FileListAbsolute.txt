@@ -1,0 +1,2 @@
+C:\Users\howle\OneDrive\Desktop\ResumeSourceCodeExamples\ResumeExamples\C#\TankWars\DrawingPanel\obj\Debug\DrawingPanel.csprojAssemblyReference.cache
+C:\Users\howle\OneDrive\Desktop\ResumeSourceCodeExamples\ResumeExamples\C#\TankWars\DrawingPanel\obj\Debug\DrawingPanel.csproj.CoreCompileInputs.cache

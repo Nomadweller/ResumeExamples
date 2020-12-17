@@ -1,0 +1,5 @@
+C:\Users\howle\OneDrive\Desktop\ResumeSourceCodeExamples\ResumeExamples\C#\TankWars\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\howle\OneDrive\Desktop\ResumeSourceCodeExamples\ResumeExamples\C#\TankWars\View\obj\Debug\View.GameView.resources
+C:\Users\howle\OneDrive\Desktop\ResumeSourceCodeExamples\ResumeExamples\C#\TankWars\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\howle\OneDrive\Desktop\ResumeSourceCodeExamples\ResumeExamples\C#\TankWars\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\howle\OneDrive\Desktop\ResumeSourceCodeExamples\ResumeExamples\C#\TankWars\View\obj\Debug\View.csproj.CoreCompileInputs.cache
